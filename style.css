@@ -1,0 +1,28 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 25px;
+  font-weight: 300;
+  background-color: #6fcff5b6;
+}
+h1 {
+  font-family: "Open Sans", cursive;
+  color: black;
+}
+.conteiner {
+  min-height: 800px;
+  max-width: 1024px;
+  margin: 0 auto;
+  padding-top: 100px;
+  margin-top: -1.5em; 
+}
+.formulario {
+  text-decoration: black;
+  margin-left: 3rem;
+  margin-top: 5rem;
+}
+
+.botao {
+  text-decoration: black;
+  margin-left: 25rem;
+  margin-top: 2rem;
+}
